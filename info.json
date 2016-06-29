@@ -1,10 +1,11 @@
 {
   "name": "Cursed-RC",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "title": "Cursed Rock Character",
   "author": "L0771",
   "contact": "http://www.factorioforums.com/forum/ucp.php?i=pm&mode=compose&u=923",
   "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=7189#p56373",
   "dependencies": ["base"],
-  "description": "Be a Rock!"
+  "description": "Be a Rock!",
+  "factorio_version": "0.13"
 }
